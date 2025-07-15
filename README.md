@@ -13,6 +13,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishreemd&layout=compact)
 
 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/nithishreemaheshwaran))
+- 💼 [LinkedIn](https://www.linkedin.com/in/nithishreemaheshwaran)
 - 📬 nithishree4@gmail.com
 
