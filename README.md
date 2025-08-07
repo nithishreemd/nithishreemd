@@ -1,88 +1,79 @@
-<h1 align="center">Hi 👋, I'm Nithishree M</h1>
-<h3 align="center">Aspiring Full Stack Developer | UI/UX Designer | Data Analyst</h3>
+<h1 align="center">Hi there 👋 I'm Nithishree M</h1>
+<h3 align="center">Full Stack Developer | UI/UX Designer | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nithishreemd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nithishreemd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
   <a href="https://portfolio-frontend-bvcr.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-30363D?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
+    <img src="https://img.shields.io/badge/🌐 View Portfolio-30363D?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nithishreemd/Resume/blob/main/Nithishree_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄 View Resume-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="resume" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 👩‍💻 About Me
 
-- 🔭 I’m currently building: **Full Stack MERN Portfolio**
-- 🌱 I’m learning: **MERN Stack, Power BI, Java DSA**
-- 👨‍💻 Check out my work: [**My Portfolio**](https://portfolio-frontend-bvcr.onrender.com/)
-- 💬 Ask me about: **JavaScript, MongoDB, Power BI, UI/UX Design**
-- 📫 Reach me: **nithishree4@gmail.com**
-- 📄 Resume: [View Here](https://github.com/nithishreemd/Resume/blob/main/Nithishree_Resume.pdf)
+- 🎓 B.Tech Information Technology — Nandha Engineering College  
+- 💼 Passionate about developing efficient web applications and delivering impactful UI/UX solutions  
+- 📊 Strong interest in data visualization & dashboards using **Power BI**  
+- 🚀 Currently upskilling in **MERN Stack**, **Java**, and **SQL**  
+- 🤝 Open to internships, full-time roles, and collaborative tech projects
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🧠 Technical Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,figma,github,vscode,tailwind,sql,powerbi" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,figma,github,vscode,sql,powerbi" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/nithishree-maheswaran-81b555253" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:nithishree4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-nithishree4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nithishree-maheswaran-81b555253/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nithishree%20M-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/nithishreemd" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-nithishreemd-black?style=flat-square&logo=github" />
   </a>
 </p>
 
 ---
 
-### 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🧠 MindSetFinder](https://github.com/nithishreemd/MindSetFinder) | AI-based mental health support platform | React, FastAPI, TensorFlow |
-| [🎟️ Erode 360 Ticket Booking](https://github.com/nithishreemd/Erode360Ticket) | Local transport ticket booking system | HTML, CSS, JS, Firebase |
-| [💸 Expenditure Tracker](https://github.com/nithishreemd/Expenditure-Tracker) | Track and visualize expenses | Node.js, Express, MongoDB |
-| [🎤 Event Chatbot](https://github.com/nithishreemd/Event-Chatbot) | Event management system with integrated chatbot | HTML, JS, Dialogflow |
 
----
-
-### 📊 GitHub Stats
+### 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nithishreemd&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nithishreemd&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nithishreemd&theme=tokyonight" alt="Streak stats" />
+  <img src="https://streak-stats.demolab.com?user=nithishreemd&theme=merko" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishreemd&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishreemd&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🎯 Fun Fact
-
-> 🧠 _“I love combining tech with design to solve real-world problems and build user-friendly web apps!”_
-
----
-
 <p align="center">
-  🚀 Explore my live portfolio →  
+  🔗 Visit my live portfolio:  
   <a href="https://portfolio-frontend-bvcr.onrender.com/" target="_blank"><strong>portfolio-frontend-bvcr.onrender.com</strong></a>
 </p>
 
 ---
 
-> Made with ❤️ by **Nithishree M**
+> © 2025 Nithishree M — All rights reserved.
