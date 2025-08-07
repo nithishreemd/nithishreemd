@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Nithishree M</h1>
-<h3 align="center">Full Stack Developer | UI/UX Designer | Data Analyst</h3>
+<h3 align="center">💻 Full Stack Developer  📊 Data Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nithishreemd&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -7,11 +7,15 @@
 
 <p align="center">
   <a href="https://portfolio-frontend-bvcr.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 View Portfolio-30363D?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://github.com/nithishreemd/Resume/blob/main/Nithishree_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄 View Resume-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="resume" />
+  <a href="https://github.com/nithishreemd" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-nithishreemd-181717?style=for-the-badge&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/nithishreemd/nithishreemd/blob/main/Nithishree%20M%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20Resume-0072b1?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </p>
 
@@ -19,39 +23,39 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Tech Information Technology — Nandha Engineering College  
-- 💼 Passionate about developing efficient web applications and delivering impactful UI/UX solutions  
-- 📊 Strong interest in data visualization & dashboards using **Power BI**  
-- 🚀 Currently upskilling in **MERN Stack**, **Java**, and **SQL**  
-- 🤝 Open to internships, full-time roles, and collaborative tech projects
+- 🎓 **B.Tech in Information Technology** from Nandha Engineering College  
+- 💼 Passionate about developing user-friendly websites and intuitive dashboards  
+- 🧠 Exploring **MERN Stack**, **Java**, and **SQL**  
+- 📊 Love transforming raw data into actionable visuals using **Power BI**  
+- 🌱 Currently doing a **100-day challenge** on Full Stack + Data Analyst  
+- 🤝 Open to internships, full-time roles & collaboration in open-source projects
 
 ---
 
-### 🧠 Technical Skills
+### 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,figma,github,vscode,sql,powerbi" />
 </p>
 
 ---
 
+
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto:nithishree4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-nithishree4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:nithishree4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nithishree4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nithishree-maheswaran-81b555253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nithishree%20M-blue?style=flat-square&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/nithishree-maheswaran-81b555253/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nithishree%20M-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/nithishreemd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-nithishreemd-black?style=flat-square&logo=github" />
+  <a href="https://github.com/nithishreemd">
+    <img src="https://img.shields.io/badge/GitHub-nithishreemd-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
-
-
 
 ### 📈 GitHub Stats & Streak
 
@@ -63,15 +67,27 @@
   <img src="https://streak-stats.demolab.com?user=nithishreemd&theme=merko" alt="GitHub Streak" />
 </p>
 
+---
+
+### 🌟 Top Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishreemd&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishreemd&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 <p align="center">
-  🔗 Visit my live portfolio:  
-  <a href="https://portfolio-frontend-bvcr.onrender.com/" target="_blank"><strong>portfolio-frontend-bvcr.onrender.com</strong></a>
+  🔗 <strong>Visit my live portfolio: </strong><br/>
+  <a href="https://portfolio-frontend-bvcr.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌍 Portfolio%20Website-00A8E8?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=e64e17&center=true&vCenter=true&width=435&lines=Passionate+Developer+and+Designer;MERN+Stack+%7C+Power+BI+%7C+Java+%7C+SQL;Always+Learning+and+Building+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
